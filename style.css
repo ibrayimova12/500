@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+body{
+    background: lightpink;
+    color: rgb(211, 62, 87);
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+header{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 10px;
+}
+.text{
+    
+    padding: 40px 0;
+    font-size: 30px;
+}
